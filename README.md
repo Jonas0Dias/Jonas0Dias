@@ -1,4 +1,4 @@
-## 💜 Olá, eu sou o <strong>Jonas!</strong>
+## Olá, eu sou o <strong>Jonas!</strong>
 
 > Sou formado em Engenharia Civil pela UFRJ e atualmente estou estudando para realizar a transição de carreira para Engenheiro de Software, através da DRIVEN.
 
