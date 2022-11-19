@@ -3,7 +3,7 @@
 > Sou formado em Engenharia Civil pela UFRJ e atualmente estou estudando para realizar a transição de carreira para Engenheiro de Software, através da DRIVEN.
 
 ----
-
+![visitantes](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Jonas0Dias.Jonas0Dias&color=202020&lcolor=8205b3)
 ## 🚀 Minhas Skills
 
 
